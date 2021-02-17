@@ -1,0 +1,16 @@
+These are the following libraries used on building model:
+
+Pandas
+Numpy
+Matplotlib
+Seaborn
+Scikit-learn
+sklearn.preprocessing import LabelEncoder
+from sklearn.feature_selection import SelectKBest
+from sklearn.feature_selection import chi2,f_classif
+from sklearn.model_selection import train_test_split
+Linear regression
+Support vector machine
+Descition Tree
+Random Forest
+XGBOOST
